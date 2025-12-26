@@ -8,8 +8,10 @@ The app displays a list of Harry Potter characters loaded from a local JSON file
 
 ## 📸 Screenshots
 
-![Character list view](demo.png)
-![Character list view (scroll)](demo2.png)
+<p align="center">
+  <img src="demo.png" width="260" />
+  <img src="demo2.png" width="260" />
+</p>
 ---
 
 ## 📱 Features
