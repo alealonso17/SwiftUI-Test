@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "nombre": "Harry Potter",
+    "raza": "Mago",
+    "descripcion": "El niño que vivió, conocido por derrotar a Lord Voldemort.",
+    "casa": "Gryffindor",
+    "edad": 17,
+    "corazon_varita": "Pluma de fénix",
+    "imagen": "HarryPotter"
+  },
+  {
+    "id": 2,
+    "nombre": "Hermione Granger",
+    "raza": "Maga",
+    "descripcion": "Estudiante brillante y una de las magas más inteligentes de su generación.",
+    "casa": "Gryffindor",
+    "edad": 17,
+    "corazon_varita": "Fibra de corazón de dragón",
+    "imagen": "HermioneGranger"
+  },
+  {
+    "id": 3,
+    "nombre": "Ron Weasley",
+    "raza": "Mago",
+    "descripcion": "Leal amigo de Harry, miembro de la familia Weasley.",
+    "casa": "Gryffindor",
+    "edad": 17,
+    "corazon_varita": "Pelo de unicornio",
+    "imagen": "RonWeasley"
+  },
+  {
+    "id": 4,
+    "nombre": "Draco Malfoy",
+    "raza": "Mago",
+    "descripcion": "Estudiante arrogante de familia sangre pura.",
+    "casa": "Slytherin",
+    "edad": 17,
+    "corazon_varita": "Pelo de unicornio",
+    "imagen": "DracoMalfoy"
+  }]

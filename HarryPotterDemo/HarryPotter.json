@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "nombre": "Harry Potter",
+    "raza": "Mago",
+    "descripcion": "El niño que vivió, conocido por derrotar a Lord Voldemort.",
+    "casa": "Gryffindor",
+    "edad": 17,
+    "corazon_varita": "Pluma de fénix",
+    "imagen": "HarryPotter"
+  },
+  {
+    "id": 2,
+    "nombre": "Hermione Granger",
+    "raza": "Maga",
+    "descripcion": "Estudiante brillante y una de las magas más inteligentes de su generación.",
+    "casa": "Gryffindor",
+    "edad": 17,
+    "corazon_varita": "Fibra de corazón de dragón",
+    "imagen": "HermioneGranger"
+  },
+  {
+    "id": 3,
+    "nombre": "Ron Weasley",
+    "raza": "Mago",
+    "descripcion": "Leal amigo de Harry, miembro de la familia Weasley.",
+    "casa": "Gryffindor",
+    "edad": 17,
+    "corazon_varita": "Pelo de unicornio",
+    "imagen": "RonWeasley"
+  },
+  {
+    "id": 4,
+    "nombre": "Draco Malfoy",
+    "raza": "Mago",
+    "descripcion": "Estudiante arrogante de familia sangre pura.",
+    "casa": "Slytherin",
+    "edad": 17,
+    "corazon_varita": "Pelo de unicornio",
+    "imagen": "DracoMalfoy"
+  },
+  {
+    "id": 5,
+    "nombre": "Albus Dumbledore",
+    "raza": "Mago",
+    "descripcion": "Director de Hogwarts y uno de los magos más poderosos de la historia.",
+    "casa": "Gryffindor",
+    "edad": 115,
+    "corazon_varita": "Pluma de fénix",
+    "imagen": "AlbusDumbledore"
+  },
+  {
+    "id": 6,
+    "nombre": "Severus Snape",
+    "raza": "Mago",
+    "descripcion": "Profesor de Pociones con un pasado trágico y complejo.",
+    "casa": "Slytherin",
+    "edad": 38,
+    "corazon_varita": "Fibra de corazón de dragón",
+    "imagen": "SeverusSnape"
+  },
+  {
+    "id": 7,
+    "nombre": "Lord Voldemort",
+    "raza": "Mago",
+    "descripcion": "El mago tenebroso más temido del mundo mágico.",
+    "casa": "Slytherin",
+    "edad": 71,
+    "corazon_varita": "Pluma de fénix",
+    "imagen": "LordVoldemort"
+  },
+  {
+    "id": 8,
+    "nombre": "Minerva McGonagall",
+    "raza": "Maga",
+    "descripcion": "Profesora de Transformaciones y subdirectora de Hogwarts.",
+    "casa": "Gryffindor",
+    "edad": 70,
+    "corazon_varita": "Pelo de unicornio",
+    "imagen": "MinervaMcGonagall"
+  },
+  {
+    "id": 9,
+    "nombre": "Rubeus Hagrid",
+    "raza": "Semigigante",
+    "descripcion": "Guardabosques de Hogwarts y amante de las criaturas mágicas.",
+    "casa": "Gryffindor",
+    "edad": 63,
+    "corazon_varita": "Pelo de unicornio",
+    "imagen": "RubeusHagrid"
+  },
+  {
+    "id": 10,
+    "nombre": "Sirius Black",
+    "raza": "Mago",
+    "descripcion": "Padrino de Harry y miembro de la Orden del Fénix.",
+    "casa": "Gryffindor",
+    "edad": 36,
+    "corazon_varita": "Desconocido",
+    "imagen": "SiriusBlack"
+  },
+  {
+    "id": 11,
+    "nombre": "Remus Lupin",
+    "raza": "Hombre lobo",
+    "descripcion": "Profesor de Defensa Contra las Artes Oscuras.",
+    "casa": "Gryffindor",
+    "edad": 37,
+    "corazon_varita": "Desconocido",
+    "imagen": "RemusLupin"
+  },
+  {
+    "id": 12,
+    "nombre": "Luna Lovegood",
+    "raza": "Maga",
+    "descripcion": "Estudiante excéntrica con una visión única del mundo.",
+    "casa": "Ravenclaw",
+    "edad": 16,
+    "corazon_varita": "Desconocido",
+    "imagen": "LunaLovegood"
+  },
+  {
+    "id": 13,
+    "nombre": "Neville Longbottom",
+    "raza": "Mago",
+    "descripcion": "Estudiante valiente con una gran evolución personal.",
+    "casa": "Gryffindor",
+    "edad": 17,
+    "corazon_varita": "Pelo de unicornio",
+    "imagen": "NevilleLongbottom"
+  },
+  {
+    "id": 14,
+    "nombre": "Bellatrix Lestrange",
+    "raza": "Maga",
+    "descripcion": "Seguidora fanática de Voldemort.",
+    "casa": "Slytherin",
+    "edad": 46,
+    "corazon_varita": "Fibra de corazón de dragón",
+    "imagen": "BellatrixLestrange"
+  },
+  {
+    "id": 15,
+    "nombre": "Cedric Diggory",
+    "raza": "Mago",
+    "descripcion": "Estudiante ejemplar y campeón de Hogwarts.",
+    "casa": "Hufflepuff",
+    "edad": 17,
+    "corazon_varita": "Pelo de unicornio",
+    "imagen": "CedricDiggory"
+  }
+]
